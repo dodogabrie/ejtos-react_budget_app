@@ -1,0 +1,10 @@
+.dropdown-wrapper .form-select {
+    width: 100%; 
+    background-color: #a8dfa3; 
+    color:white;
+  }
+  
+  .dropdown-wrapper .form-select option {
+    background-color: #a8dfa3;
+    color: black;
+  }
